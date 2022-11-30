@@ -56,3 +56,13 @@ h1{
         display: none;
     }
 }
+
+
+/* limitar el tamano maximo de imagen tecnologias */
+
+@media screen and (min-width: 700px){
+
+    .hero-inferior-imagen{
+        min-width: 700px;
+    }
+}
